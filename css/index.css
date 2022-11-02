@@ -1,0 +1,16 @@
+:root{
+    --text-color: brown;
+}
+h3{
+    color:var(--text-color);
+    font-size: 30px;
+}
+h5#c2{
+    color:var(--text-color);
+    font-size: 30px;
+}
+h5#c3{
+    color:var(--text-color);
+    font-size: 30px;
+}
+
